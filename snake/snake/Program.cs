@@ -46,7 +46,7 @@ namespace snake
                     snake.Move();
                 }
 
-                Thread.Sleep(100);
+                Thread.Sleep(400);
 
                 if (Console.KeyAvailable)
                 {
